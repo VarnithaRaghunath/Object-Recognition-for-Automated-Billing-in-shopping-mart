@@ -1,2 +1,4 @@
-0 Tresemme Shampoo 1L
-1 Tresemme Shampoo 580ml
+0 Kissan Tomato ketchup 200g
+1 Maggi Hot and sweet sauce 200g
+2 Tresemme Shampoo 1L
+3 Tresemme Shampoo 580ml
